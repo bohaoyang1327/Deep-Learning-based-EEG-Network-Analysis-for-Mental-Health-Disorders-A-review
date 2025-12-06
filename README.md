@@ -19,5 +19,6 @@ We focus on:
 - Challenges for clinical translation and future research directions
 
 
-> Author: Bohao Yang, Duke University 
+> Author: Bohao Yang, Duke University
+
 > Advisor: Dr. Feng Liu, Stevens Institute of Technology
